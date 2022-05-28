@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "spellcheck": true,
+  "tabSize": 4,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "showFrontmatter": false,
+  "rightToLeft": false
+}

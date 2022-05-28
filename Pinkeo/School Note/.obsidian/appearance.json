@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 23,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "cssTheme": "Primary",
+  "translucency": true,
+  "interfaceFontFamily": "lao sangam MN",
+  "textFontFamily": "lao sangam MN"
+}

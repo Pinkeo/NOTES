@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "ea592f3d3f5c44c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "611d0c3cd51aba53",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Digital Circuit/Materials/Digital circuit 3 Karnaugh map.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "286bb942751cfb59",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed6d4bd5dadaccaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dbb584f48ae1184",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3455c25aa30e33cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08e67114a25fdddc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "134dac6244979e4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb0aade93c218a8",
+        "type": "tabs",
+        "dimension": 51.909722222222214,
+        "children": [
+          {
+            "id": "7d26378860fad8c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8e95420d0d645f5",
+        "type": "tabs",
+        "dimension": 48.090277777777786,
+        "children": [
+          {
+            "id": "2000426e4dbe89d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Circuit/Materials/Digital circuit 3 Karnaugh map.pdf"
+              }
+            }
+          },
+          {
+            "id": "005a8afb1c4b25ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "913f07c61516ca14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Circuit/Materials/Digital circuit 3 Karnaugh map.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5fbac60f32fa7fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Circuit/Materials/Digital circuit 3 Karnaugh map.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "58d856c8922ead2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5,
+    "collapsed": true
+  },
+  "active": "611d0c3cd51aba53",
+  "lastOpenFiles": [
+    "Digital Circuit/Materials/Digital circuit 3 Karnaugh map.pdf",
+    "Energy Conversion/Script For Video Project/Lao.Script.Full Bridge Rectifier Explained.md",
+    "English For Prof. Purpose/Materials/ຄຳຕອບອັງກິດ3.pdf",
+    "English For Prof. Purpose/English.md",
+    "Data Communication/ວຽກບ້ານ/ວຽກບ້ານ ວັນທີ 18.05.22.md",
+    "Templates/for homework.md",
+    "Templates/Simple Note.md",
+    "Data Communication/ວຽກບ້ານ/ວຽກບ້ານ ຄັ້ງວັນທີ 19.04.22.md",
+    "Digital Circuit/ບົດທີ 3 Karnaugh Map.md",
+    "Digital Circuit/Assets/2v.png"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "d984ebfe5a3d70bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b639353cb234cf7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ff1daaca528df66",
+    "type": "split",
+    "children": [
+      {
+        "id": "d07bd0b43c5982bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "083ed317a2888d9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e8b2df03dcf64ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 156
+  },
+  "right": {
+    "id": "cee01200b3aab870",
+    "type": "split",
+    "children": [
+      {
+        "id": "270dcd17ab71065d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151f98002fc016c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8b639353cb234cf7",
+  "lastOpenFiles": [
+    "Data Communication ການສື່ສານຂໍ້ມູນ.md",
+    "chapter 1.pdf"
+  ]
+}

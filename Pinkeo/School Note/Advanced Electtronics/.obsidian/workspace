@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "0a5a6b526254c332",
+    "type": "split",
+    "children": [
+      {
+        "id": "7306c534c88cdc16",
+        "type": "leaf",
+        "dimension": 60.99585062240664,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ທວນຄືນບົດທີ 1.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "6d6267c9c793459f"
+      },
+      {
+        "id": "b6fc5adcac777d39",
+        "type": "leaf",
+        "dimension": 39.004149377593365,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "ທວນຄືນບົດທີ 1.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "6d6267c9c793459f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70acc68791cf37f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e0b29f09c98e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7162f266d2788bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e6f6f4fbe262e14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3421d3c7ceaceb7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b58af1c1cfb936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d02282ca21286b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ທວນຄືນບົດທີ 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182,
+    "collapsed": true
+  },
+  "active": "7306c534c88cdc16",
+  "lastOpenFiles": [
+    "ທວນຄືນບົດທີ 1.md",
+    "Lesson File/ບົດຮຽນທີ 1-1.pdf",
+    "ບົດຮຽນທີ 1.pdf.md"
+  ]
+}

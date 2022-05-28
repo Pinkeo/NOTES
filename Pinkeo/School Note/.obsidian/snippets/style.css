@@ -1,0 +1,103 @@
+html,body{
+    font-family:lao sangam Mn!important;
+    font-size:15px;
+    line-height:1.5
+}
+p{
+    font-family: lao sangam Mn!important;
+    
+}
+li,ul{
+    font-family: lao sangam Mn!important;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: lao sangam Mn!important;
+}
+
+#graph-view-canvas .links {
+  stroke: var(--interactive-accent-rgb);
+  font-family: lao sangam Mn;
+}
+
+g{
+    background-color: #f2eb8a;
+    color: black;
+    
+}
+.hl-b{
+    background-color: #9fc5c9;
+    color: black;
+}
+.hl-p{
+    background-color: #cfb0cd;
+    color: black;
+    
+}
+button{
+    border-radius: 4rem;
+    color: black;
+    background-color: #d6abc3;
+}
+
+
+/* Popover styling */
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.popover__title {
+  font-size: 24px;
+  line-height: 36px;
+  text-decoration: none;
+  color: #c3abd6;
+  text-align: center;
+   left: -70px;
+   right: -50px;
+}
+
+.popover__wrapper {
+  position: relative;
+  margin-top: 2rem;
+  display: inline-block;
+  color: white;
+}
+.popover__content {
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  left: -50px;
+  right: -50px;
+  transform: translate(0, 10px);
+  background-color: #d6abc3;
+  padding: 0rem;
+  border-radius: 4rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  width: auto;
+  color: black;
+  margin-left: 30px;
+}
+.popover__content:before {
+  position: absolute;
+  z-index: -1;
+  content: "";
+  right: calc(50% - 10px);
+  top: -8px;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #bfbfbf transparent;
+  transition-duration: 0.3s;
+  transition-property: transform;
+}
+.popover__wrapper:hover .popover__content {
+  z-index: 10;
+  opacity: 1;
+  visibility: visible;
+  transform: translate(0, -15px);
+  transition: all 0.5s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+}
+.popover__message {
+  text-align: center;
+}
+
