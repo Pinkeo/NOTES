@@ -1,5 +1,0 @@
- Date: {{date}} {{time}}
- 
- **Referents**
- 
-----
